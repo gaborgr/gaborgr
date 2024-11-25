@@ -21,7 +21,7 @@ I know this journey won’t be easy, but it’s definitely achievable. I’m gen
 <img align="center" src="https://github.com/user-attachments/assets/0f6a63f0-36c6-4760-a1a5-bb2dc4ddd96d" height="60" width="60" />
 <img align="center" src="https://github.com/user-attachments/assets/3c90f404-5b1e-4cbd-a48f-7023468d2d99" height="60" width="60" />
 </p>
-<p>
+<p align="center">
 <img align="center" src="https://github.com/user-attachments/assets/bf7c0b75-ea56-4717-b5ad-1964df152b10" height="100" width="100" />
 <img align="center" src="https://github.com/user-attachments/assets/b2b077f6-d3fa-45a2-ace9-efb89e9a68de" height="100" width="100" />
 <img align="center" src="https://github.com/user-attachments/assets/89339937-273d-4f98-9e9d-70f32b559c06" height="100" width="100" />
