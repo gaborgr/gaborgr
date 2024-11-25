@@ -18,9 +18,9 @@ I know this journey won’t be easy, but it’s definitely achievable. I’m gen
 <img align="center" src="https://github.com/user-attachments/assets/7c29c581-602c-4ce1-8e53-0f08fc3b3711" height="60" width="60" />
 <img align="center" src="https://github.com/user-attachments/assets/3d62cfbb-accf-4ce1-822e-9bc3748c0de1" height="60" width="60" />
 <img align="center" src="https://github.com/user-attachments/assets/ef4027d9-8b5b-4a7f-b734-05cf1834484a" height="60" width="60" />
-<img align="center" src="https://github.com/user-attachments/assets/bf7c0b75-ea56-4717-b5ad-1964df152b10" height="60" width="60" />
-<img align="center" src="https://github.com/user-attachments/assets/b2b077f6-d3fa-45a2-ace9-efb89e9a68de" height="60" width="60" />
-<img align="center" src="https://github.com/user-attachments/assets/89339937-273d-4f98-9e9d-70f32b559c06" height="60" width="60" />
+<img align="center" src="https://github.com/user-attachments/assets/bf7c0b75-ea56-4717-b5ad-1964df152b10" height="80" width="80" />
+<img align="center" src="https://github.com/user-attachments/assets/b2b077f6-d3fa-45a2-ace9-efb89e9a68de" height="80" width="80" />
+<img align="center" src="https://github.com/user-attachments/assets/89339937-273d-4f98-9e9d-70f32b559c06" height="80" width="80" />
 <img align="center" src="https://github.com/user-attachments/assets/0f6a63f0-36c6-4760-a1a5-bb2dc4ddd96d" height="60" width="60" />
 <img align="center" src="https://github.com/user-attachments/assets/3c90f404-5b1e-4cbd-a48f-7023468d2d99" height="60" width="60" />
 </p>
@@ -35,5 +35,5 @@ I know this journey won’t be easy, but it’s definitely achievable. I’m gen
 ## Nest Steps :dart:
 <p align="center">
 <img align="center" src="https://github.com/user-attachments/assets/b7afe80a-4b74-4c67-8b97-0f9fbc4740ef" height="60" width="60" />
-<img align="center" src="https://github.com/user-attachments/assets/0851311a-907d-4fd3-bb8b-b0f2aeaefae6" height="60" width="60" />
+<img align="center" src="https://github.com/user-attachments/assets/0851311a-907d-4fd3-bb8b-b0f2aeaefae6" height="80" width="80" />
 </p>
