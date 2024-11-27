@@ -36,7 +36,7 @@ I know this journey won’t be easy, but it’s definitely achievable. I’m gen
 <img align="center" src="https://github.com/user-attachments/assets/c57d5199-89de-4c13-bcc8-291d67c6909c" height="60" width="60" />
 </p>
 
-## Nest Steps :dart:
+## Next Steps :dart:
 <p align="center">
 <img align="center" src="https://github.com/user-attachments/assets/b7afe80a-4b74-4c67-8b97-0f9fbc4740ef" height="75" width="75" />
 <img align="center" src="https://github.com/user-attachments/assets/0851311a-907d-4fd3-bb8b-b0f2aeaefae6" height="100" width="100" />
