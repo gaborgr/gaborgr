@@ -2,7 +2,6 @@
 <h1 align="center">Welcome 👋</h1>
 </div>
 
-<img src="https://github.com/user-attachments/assets/e9541866-7882-4b1f-af3f-660fb61634f9">
 
 ## About Me :v:
 
