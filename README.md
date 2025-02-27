@@ -42,6 +42,6 @@ I know this journey won’t be easy, but it’s definitely achievable. I’m gen
 </p>
 
 ### ⚡Recent Activity
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
