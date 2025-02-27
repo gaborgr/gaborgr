@@ -43,5 +43,4 @@ I know this journey won’t be easy, but it’s definitely achievable. I’m gen
 
 ### ⚡Recent Activity
 <!--RECENT_ACTIVITY:start-->
-
 <!--RECENT_ACTIVITY:last_update-->
