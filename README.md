@@ -40,3 +40,8 @@ I know this journey won’t be easy, but it’s definitely achievable. I’m gen
 <img align="center" src="https://github.com/user-attachments/assets/b7afe80a-4b74-4c67-8b97-0f9fbc4740ef" height="75" width="75" />
 <img align="center" src="https://github.com/user-attachments/assets/0851311a-907d-4fd3-bb8b-b0f2aeaefae6" height="100" width="100" />
 </p>
+
+### ⚡Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
