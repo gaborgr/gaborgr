@@ -9,7 +9,7 @@
 - 🌱 Currently transitioning into **software development** with a burning passion for tech
 - 🎯 Career motto: *"The best time to do something is when you do it."*
 
-> **Language Note:** My native language is Spanish (fluent) and my English level is B1 (intermediate). I welcome communication in either language!
+>🎉 **Language Note:** My native language is Spanish (fluent) and my English level is B1 (intermediate). I welcome communication in either language!
 
 ## 🚀 **Why the Career** Switch?
 
