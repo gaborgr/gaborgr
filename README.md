@@ -79,12 +79,12 @@ I'm always open to:
 
 ### ⚡Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [gaborgr/gaborgr](https://github.com/gaborgr/gaborgr)<br>
-2. ⬆️ Pushed 1 commit(s) to [gaborgr/gaborgr](https://github.com/gaborgr/gaborgr)<br>
-3. ⬆️ Pushed 1 commit(s) to [gaborgr/fastapi-jwt-auth](https://github.com/gaborgr/fastapi-jwt-auth)<br>
-4. ⬆️ Pushed 1 commit(s) to [gaborgr/fastapi-jwt-auth](https://github.com/gaborgr/fastapi-jwt-auth)<br>
-5. ⬆️ Pushed 1 commit(s) to [gaborgr/fastapi-jwt-auth](https://github.com/gaborgr/fastapi-jwt-auth)<br>
+1. ⬆️ Pushed 1 commit(s) to [gaborgr/gaborgr.github.io](https://github.com/gaborgr/gaborgr.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [gaborgr/gaborgr.github.io](https://github.com/gaborgr/gaborgr.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [gaborgr/gaborgr.github.io](https://github.com/gaborgr/gaborgr.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [gaborgr/gaborgr.github.io](https://github.com/gaborgr/gaborgr.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [gaborgr/gaborgr.github.io](https://github.com/gaborgr/gaborgr.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 27th, 2025, 1:03:39 PM
+Last Updated: Monday, July 28th, 2025, 12:03:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
