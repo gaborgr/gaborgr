@@ -73,7 +73,7 @@ I'm always open to:
 - General tech discussions
 
 📧 How to reach me: gguerra.code@gmail.com  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gguerra-code/)
+🔗 LinkedIn: [Click Here!](https://www.linkedin.com/in/gguerra-code/)
 
 > *"It's never too late to become what you might have been."* - George Eliot
 
