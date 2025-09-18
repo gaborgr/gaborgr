@@ -79,12 +79,12 @@ I'm always open to:
 
 ### ⚡Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [gaborgr/AI-Handbook-es](https://github.com/gaborgr/AI-Handbook-es)<br>
-2. ⬆️ Pushed 1 commit(s) to [gaborgr/AI-Handbook-en](https://github.com/gaborgr/AI-Handbook-en)<br>
-3. ⬆️ Pushed 1 commit(s) to [gaborgr/AI-Handbook-en](https://github.com/gaborgr/AI-Handbook-en)<br>
+1. ⭐ Starred [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)<br>
+2. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)<br>
+3. ⬆️ Pushed 1 commit(s) to [gaborgr/AI-Handbook-es](https://github.com/gaborgr/AI-Handbook-es)<br>
 4. ⬆️ Pushed 1 commit(s) to [gaborgr/AI-Handbook-en](https://github.com/gaborgr/AI-Handbook-en)<br>
 5. ⬆️ Pushed 1 commit(s) to [gaborgr/AI-Handbook-en](https://github.com/gaborgr/AI-Handbook-en)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 17th, 2025, 1:03:24 PM
+Last Updated: Thursday, September 18th, 2025, 12:02:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
