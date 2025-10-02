@@ -79,12 +79,12 @@ I'm always open to:
 
 ### ⚡Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)<br>
-2. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)<br>
-3. ⬆️ Pushed 1 commit(s) to [gaborgr/AI-Handbook-es](https://github.com/gaborgr/AI-Handbook-es)<br>
-4. ⬆️ Pushed 1 commit(s) to [gaborgr/AI-Handbook-en](https://github.com/gaborgr/AI-Handbook-en)<br>
+1. 📔 Created new repository [gaborgr/mining-twitter-Data](https://github.com/gaborgr/mining-twitter-Data)<br>
+2. ⭐ Starred [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)<br>
+3. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)<br>
+4. ⬆️ Pushed 1 commit(s) to [gaborgr/AI-Handbook-es](https://github.com/gaborgr/AI-Handbook-es)<br>
 5. ⬆️ Pushed 1 commit(s) to [gaborgr/AI-Handbook-en](https://github.com/gaborgr/AI-Handbook-en)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 1st, 2025, 1:05:22 PM
+Last Updated: Thursday, October 2nd, 2025, 12:02:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
