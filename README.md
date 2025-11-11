@@ -79,12 +79,12 @@ I'm always open to:
 
 ### ⚡Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [gaborgr/python-chatbot](https://github.com/gaborgr/python-chatbot)<br>
-2. ⬆️ Pushed undefined commit(s) to [gaborgr/python-chatbot](https://github.com/gaborgr/python-chatbot)<br>
-3. ⬆️ Pushed undefined commit(s) to [gaborgr/task-manager](https://github.com/gaborgr/task-manager)<br>
-4. ⬆️ Pushed undefined commit(s) to [gaborgr/fastapi-jwt-auth](https://github.com/gaborgr/fastapi-jwt-auth)<br>
-5. ⬆️ Pushed undefined commit(s) to [gaborgr/fastapi-jwt-auth](https://github.com/gaborgr/fastapi-jwt-auth)<br>
+1. ⬆️ Pushed undefined commit(s) to [gaborgr/gaborgr.github.io](https://github.com/gaborgr/gaborgr.github.io)<br>
+2. ⬆️ Pushed undefined commit(s) to [gaborgr/gaborgr.github.io](https://github.com/gaborgr/gaborgr.github.io)<br>
+3. ⬆️ Pushed undefined commit(s) to [gaborgr/python-chatbot](https://github.com/gaborgr/python-chatbot)<br>
+4. ⬆️ Pushed undefined commit(s) to [gaborgr/python-chatbot](https://github.com/gaborgr/python-chatbot)<br>
+5. ⬆️ Pushed undefined commit(s) to [gaborgr/task-manager](https://github.com/gaborgr/task-manager)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 10th, 2025, 1:07:11 PM
+Last Updated: Tuesday, November 11th, 2025, 12:02:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
