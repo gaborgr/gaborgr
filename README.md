@@ -81,10 +81,10 @@ I'm always open to:
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [gaborgr/gaborgr.github.io](https://github.com/gaborgr/gaborgr.github.io)<br>
 2. ⬆️ Pushed undefined commit(s) to [gaborgr/gaborgr.github.io](https://github.com/gaborgr/gaborgr.github.io)<br>
-3. ⬆️ Pushed undefined commit(s) to [gaborgr/python-chatbot](https://github.com/gaborgr/python-chatbot)<br>
-4. ⬆️ Pushed undefined commit(s) to [gaborgr/python-chatbot](https://github.com/gaborgr/python-chatbot)<br>
-5. ⬆️ Pushed undefined commit(s) to [gaborgr/task-manager](https://github.com/gaborgr/task-manager)<br>
+3. ⬆️ Pushed undefined commit(s) to [gaborgr/django-coffeeshop](https://github.com/gaborgr/django-coffeeshop)<br>
+4. ⬆️ Pushed undefined commit(s) to [gaborgr/django-coffeeshop](https://github.com/gaborgr/django-coffeeshop)<br>
+5. ⬆️ Pushed undefined commit(s) to [gaborgr/gaborgr.github.io](https://github.com/gaborgr/gaborgr.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 13th, 2025, 1:07:15 PM
+Last Updated: Friday, November 14th, 2025, 12:02:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
