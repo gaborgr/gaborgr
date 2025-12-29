@@ -79,9 +79,10 @@ I'm always open to:
 
 ### ⚡Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [gaborgr/Ebooks](https://github.com/gaborgr/Ebooks) from [RavinRau/Ebooks](https://github.com/RavinRau/Ebooks)<br>
-2. ⬆️ Pushed undefined commit(s) to [gaborgr/flask-google-login-demo](https://github.com/gaborgr/flask-google-login-demo)<br>
+1. ⭐ Starred [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)<br>
+2. 🔱 Forked [gaborgr/Ebooks](https://github.com/gaborgr/Ebooks) from [RavinRau/Ebooks](https://github.com/RavinRau/Ebooks)<br>
+3. ⬆️ Pushed undefined commit(s) to [gaborgr/flask-google-login-demo](https://github.com/gaborgr/flask-google-login-demo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 28th, 2025, 1:04:31 PM
+Last Updated: Monday, December 29th, 2025, 12:04:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
