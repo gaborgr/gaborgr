@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Gabriel
 
-Self-taught **Python developer** focused on building real-world projects with **Django**.  
-I enjoy clean architecture, collaborative teams, and learning something new every day.
+Self-taught **Python developer** focused on building real-world projects with **Django**. I enjoy clean architecture, collaborative teams, and learning something new every day.
 
 ---
 
