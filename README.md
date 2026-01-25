@@ -16,31 +16,7 @@ I enjoy clean architecture, collaborative teams, and learning something new ever
 ---
 
 ## 🚀 Tech Stack
-
-### 🐍 Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask" />
-</p>
-
-### 🌐 Web
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" />
-</p>
-
-### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash" />
-</p>
-
-### 🧰 Tools & Others
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,rust" />
-</p>
+<table> <tr> <th align="left">🐍 Backend</th> <th align="left">🌐 Web</th> </tr> <tr> <td> <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask" width="160"/> </td> <td> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" width="160"/> </td> </tr> </table> <table> <tr> <th align="left">🗄️ Databases</th> <th align="left">☁️ Cloud & DevOps</th> </tr> <tr> <td> <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" width="160"/> </td> <td> <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash" width="160"/> </td> </tr> </table> <table> <tr> <th align="left">🧰 Tools & Others</th> </tr> <tr> <td> <img src="https://skillicons.dev/icons?i=git,github,rust" width="160"/> </td> </tr> </table>
 
 ---
 
