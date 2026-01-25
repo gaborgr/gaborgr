@@ -1,76 +1,76 @@
-# **Welcome to My GitHub Universe!** 🌌
+# 👋 Hi, I'm Gabriel
 
-👋 Hi there! I'm **Gabriel**, a passionate professional transitioning into the exciting world of technology. Here's my story...
+Self-taught **Python developer** focused on building real-world projects with **Django**.  
+I enjoy clean architecture, collaborative teams, and learning something new every day.
 
-## 🧑‍💻 **About Me**
+---
 
-- 🎓 Certified Public Accountant from Venezuela with **12+ years** of financial experience
-- 🔍 Skills honed: Data analysis, conflict resolution, cross-cultural teamwork, resource management, and project development
-- 🌱 Currently transitioning into **software development** with a burning passion for tech
-- 🎯 Career motto: *"The best time to do something is when you do it."*
+## 🧑‍💻 About Me
 
->🎉 **Language Note:** My native language is Spanish (fluent) and my English level is B1 (intermediate). I welcome communication in either language!
+- 🐍 **Python-first developer**, currently working with **Django**
+- 🧠 Self-taught, project-driven learning mindset
+- 🛠️ I build and maintain **personal projects** to deepen my skills
+- 🤝 I enjoy **collaborative teams**, clear communication, and shared ownership
+- 🌱 Always learning — tech, tools, and better ways to solve problems
 
-## 🚀 **Why the Career** Switch?
+---
 
-_"You might wonder - what's an accountant doing on GitHub?"_  
+## 🚀 Tech Stack
 
-I've always been fascinated by technology - from witnessing the evolution of computers (286 → 486 → Pentium...) to the internet revolution and now the AI era. After years in finance, I've decided to pursue my true passion: **building solutions through code**.  
+### 🐍 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask" />
+</p>
 
-Yes, I'm in my 40s.  
-Yes, the pandemic might have been an "easier" time to switch.  
-But as I've learned: **THE TIME IS NOW**.  
+### 🌐 Web
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" />
+</p>
 
-**I bring**:
-- Zero ego - just hunger to learn
-- Valuable professional experience from SMBs to large corporations
-- Unshakable adaptability (proven across industries and cultures)
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
+</p>
 
-## 💻 **Technical Skills**
-### 🐍 **Python Ecosystem**
-```python
-{
-  "Core": ["OOP", "SOLID", "Design Patterns", "Algorithmic Complexity"],
-  "Frameworks": ["Django", "DRF", "Flask", "FastAPI"],
-  "Testing": ["pytest", "unittest", "coverage"],
-  "Data Science": ["Pandas", "NumPy", "Matplotlib"]
-}
-```
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash" />
+</p>
 
-### 🌐 **Web Development**
-```javascript
-{
-  "Frontend": ["HTML", "CSS", "Tailwind"],
-  "Backend": ["Python", "JavaScript (basic)"],
-  "Database": ["SQL", "PostgreSQL"]
-}
-```
+### 🧰 Tools & Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,rust" />
+</p>
 
-### 🔧 **Other Tools**
-```bash
-["Bash Scripting", "Regular Expressions", "Git", "Linux"]
-```
+---
 
-## 🧠 **Learning Path**
-My current focus areas:
-- 🤖 Machine Learning / AI Engineering
-- ☁️ Cloud Technologies
-- 🧩 Building AI-powered applications
+## 🧠 Currently Exploring
 
-## 🌟 **Why Work With Me?**
+- ☁️ Cloud architectures (AWS)
+- 🧩 Backend scalability & system design
+- 🤖 AI-powered features & integrations
+- 🦀 Rust (systems & performance-oriented tooling)
 
-- 🧩 Unique perspective combining financial expertise with tech skills
-- 🏗️ Strong foundation in building maintainable, well-tested code
-- 🌍 Cross-cultural communication experience
-- 🔥 Relentless problem-solver with professional maturity
+---
 
-## 📫 **Let's Connect!**
+## 💡 How I Work
 
-I'm always open to:
-- Collaborations on interesting projects
-- Learning opportunities
-- Mentorship (giving or receiving)
-- General tech discussions
+- I care about **readable, maintainable code**
+- I value **testing**, good structure, and clear responsibilities
+- I ask questions, share knowledge, and learn from feedback
+- I prefer progress over perfection
+
+---
+
+## 📫 Let's Connect
+
+I'm open to:
+- 🤝 Collaborations on backend or Python projects
+- 🧪 Learning-focused teams
+- 💬 Technical discussions & code reviews
+
+Spanish 🇪🇸 | English 🇬🇧 (intermediate)
+
 
 📧 How to reach me: gguerra.code@gmail.com  
 🔗 LinkedIn: [Click Here!](https://www.linkedin.com/in/gguerra-code/)
