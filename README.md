@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Gabriel
+## 👋 Hi, I'm Gabriel
 
 Self-taught **Python developer** focused on building real-world projects with **Django**.  
 I enjoy clean architecture, collaborative teams, and learning something new every day.
 
 ---
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
 - 🐍 **Python-first developer**, currently working with **Django**
 - 🧠 Self-taught, project-driven learning mindset
@@ -15,12 +15,12 @@ I enjoy clean architecture, collaborative teams, and learning something new ever
 
 ---
 
-## 🚀 Tech Stack
-<table align="center"> <tr> <th align="center">🐍 Backend</th> <th align="center">🌐 Web</th> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask" width="140"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" width="140"/> </td> </tr> </table> <br/> <table align="center"> <tr> <th align="center">🗄️ Databases</th> <th align="center">☁️ Cloud & DevOps</th> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" width="140"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash" width="140"/> </td> </tr> </table> <br/> <table align="center"> <tr> <th align="center">🧰 Tools & Others</th> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=git,github,rust" width="140"/> </td> </tr> </table>
+### 🚀 Tech Stack
+<table align="center"> <tr> <th align="center">🐍 Backend</th> <th align="center">🌐 Web</th> <th align="center">🗄️ Databases</th> <th align="center">☁️ Cloud & DevOps</th> <th align="center">🧰 Tools</th> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask" width="120"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js" width="120"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" width="120"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash" width="120"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=git,github,rust" width="120"/> </td> </tr> </table>
 
 ---
 
-## 🧠 Currently Exploring
+### 🧠 Currently Exploring
 
 - ☁️ Cloud architectures (AWS)
 - 🧩 Backend scalability & system design
@@ -29,7 +29,7 @@ I enjoy clean architecture, collaborative teams, and learning something new ever
 
 ---
 
-## 💡 How I Work
+### 💡 How I Work
 
 - I care about **readable, maintainable code**
 - I value **testing**, good structure, and clear responsibilities
@@ -38,7 +38,7 @@ I enjoy clean architecture, collaborative teams, and learning something new ever
 
 ---
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 I'm open to:
 - 🤝 Collaborations on backend or Python projects
@@ -47,11 +47,14 @@ I'm open to:
 
 Spanish 🇪🇸 | English 🇬🇧 (intermediate)
 
+---
 
-📧 How to reach me: gguerra.code@gmail.com  
+### 📧 How to reach me: gguerra.code@gmail.com  
 🔗 LinkedIn: [Click Here!](https://www.linkedin.com/in/gguerra-code/)
 
 > *"It's never too late to become what you might have been."* - George Eliot
+
+---
 
 ### ⚡Recent Activity
 <!--RECENT_ACTIVITY:start-->
