@@ -5,7 +5,7 @@ Native on the front. I build products end to end and I ship them.
 
 - Backend Developer at **Syzlab**, working on a consumer platform in production: Django, HTMX,
   WebSockets, PostgreSQL, AWS S3, Docker.
-- Founder of **Teddy Code**, where I have released **9 Android apps and 6 web products** in the last
+- Founder of **Teddy Code**, where I have released **10 Android apps and 6 web products** in the last
   12 months, next to the full-time job.
 - Before software: nearly 18 years in audit, accounting and finance, up to Controller. I ask what a
   feature does to the business before asking how to build it.
@@ -23,6 +23,7 @@ and you can use it right now.
 | Product | What it is |
 |---|---|
 | [Playro](https://play.google.com/store/apps/details?id=com.teddycode.playro) | Social matchmaking for gamers. React Native, Expo, Supabase with row level security, push notifications. Also on the web at [web.playro.app](https://web.playro.app/) |
+| [Woggli](https://play.google.com/store/apps/details?id=com.teddycode.woggli) | Peer to peer marketplace and social network for the world Scout movement. Follow graph with derived friendship, realtime chat and shipments, every critical transition through a Postgres RPC. 5 languages |
 | [QualiPath](https://qualipath.co/) | Decision engine for getting a professional qualification recognized abroad. 83 verified routes across 18 destinations, each requirement linked to its official source |
 | [Hallazgo](https://hallazgo.app/) | Daily magazine of verified global opportunities. An AI agent runs headless on a schedule and publishes straight to the database, no deploy per article |
 | [Stusher](https://play.google.com/store/apps/details?id=com.teddycode.stusher) | Three personalized streaming picks in 30 seconds. Edge Functions keep the API keys out of the client bundle |
@@ -65,9 +66,7 @@ and you can use it right now.
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#6981](undefined) in [superplanehq/superplane](https://github.com/superplanehq/superplane)<br>
-2. 🔱 Forked [gaborgr/superplane](https://github.com/gaborgr/superplane) from [superplanehq/superplane](https://github.com/superplanehq/superplane)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 22nd, 2026, 3:50:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
+
